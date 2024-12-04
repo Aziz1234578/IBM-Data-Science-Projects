@@ -25,11 +25,15 @@ L'ensemble de données utilisé contient des informations sur les maisons vendue
 ## Ensemble de Données
 - **Source** : Ensemble de données modifié pour ce cours, basé sur les ventes de maisons dans le comté de King, USA.
 - **Période couverte** : Mai 2014 à Mai 2015.
-- **Variables clés** :
-  - Prix de vente.
-  - Superficie habitable.
-  - Nombre de chambres.
-  - Nombre de salles de bain.
-  - Code postal, et plus encore.
+- **Taille de l'ensemble de données** :
+  - **Nombre de lignes** : Environ 21 613 enregistrements.
+  - **Nombre de colonnes** : 21 caractéristiques par maison, incluant :
+    - **Prix de vente** : Prix de la maison en dollars.
+    - **Superficie habitable** : Surface intérieure en pieds carrés.
+    - **Nombre de chambres** : Nombre total de chambres.
+    - **Nombre de salles de bain** : Nombre total de salles de bain.
+    - **Code postal** : Zone géographique des maisons.
+    - **Latitude et Longitude** : Localisation précise de chaque maison.
+    - **Année de construction** : Année de construction de la maison.
 
 ---
