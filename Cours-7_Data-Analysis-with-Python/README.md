@@ -20,10 +20,6 @@ L'ensemble de données utilisé contient des informations sur les maisons vendue
    - Utiliser des algorithmes de régression pour prédire le prix des maisons.
    - Évaluer les performances du modèle en utilisant des métriques appropriées.
 
-3. **Répondre à des questions spécifiques** :
-   - Analyser les données en profondeur en suivant les dix questions fournies dans le cahier d'exercices.
-   - Utiliser des outils Python tels que Pandas, Matplotlib, et Scikit-learn pour répondre à ces questions.
-
 ---
 
 ## Ensemble de Données
