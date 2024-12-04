@@ -37,9 +37,3 @@ Dans ce projet final, j'ai pris le rôle d'un data scientist pour **XYZAutomotiv
   - **Recession** : Indicateur binaire des périodes de récession.
 
 ---
-
-## Comment utiliser ce projet
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre_nom_utilisateur/IBM-Data-Science-Projects.git
-   cd Cours-8_Data-Visualization-with-Python/Final-Project
