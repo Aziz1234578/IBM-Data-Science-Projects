@@ -21,7 +21,7 @@ Dans ce projet final, j'ai pris le rôle d'un data scientist pour **XYZAutomotiv
 ---
 
 ## Ensemble de Données
-- **Source** : Données artificielles créées pour ce projet.
+- **Source** : Données artificielles créées spécifiquement pour ce projet.
 - **Périodes de récession étudiées** :
   - 1980
   - 1981–1982
@@ -29,11 +29,19 @@ Dans ce projet final, j'ai pris le rôle d'un data scientist pour **XYZAutomotiv
   - 2000–2001
   - Fin 2007–mi-2009
   - 2020 (COVID-19, Février–Avril)
-- **Variables clés** :
-  - **Automobile_Sales** : Nombre de véhicules vendus.
-  - **GDP** : PIB par habitant.
-  - **Unemployment_Rate** : Taux de chômage.
-  - **Consumer_Confidence** : Indice de confiance des consommateurs.
-  - **Recession** : Indicateur binaire des périodes de récession.
+- **Taille de l'ensemble de données** :
+  - **Nombre de lignes** : Plus de 500 enregistrements.
+  - **Nombre de colonnes** : 15 caractéristiques, incluant :
+    - **Date** : Date de l'observation.
+    - **Recession** : Indicateur binaire (1 = récession, 0 = non-récession).
+    - **Automobile_Sales** : Nombre de véhicules vendus.
+    - **GDP** : PIB par habitant en USD.
+    - **Unemployment_Rate** : Taux de chômage mensuel.
+    - **Consumer_Confidence** : Indice de confiance des consommateurs.
+    - **Seasonality_Weight** : Impact de la saisonnalité sur les ventes.
+    - **Price** : Prix moyen des véhicules.
+    - **Advertising_Expenditure** : Dépenses publicitaires.
+    - **Vehicle_Type** : Catégorie du véhicule (e.g., Small family car, Sports).
+    - **Competition** : Indicateur de concurrence sur le marché.
 
 ---
